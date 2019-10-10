@@ -1,0 +1,37 @@
+    1  pwd
+    2  mkdir ~/Photo/
+    3  ls
+    4  ls ~/Photo_orig/
+    5  pwd
+    6  cd ./Photo_orig/
+    7  pwd
+    8  ls
+    9  cd ../R04/
+   10  cd ./R04/
+   11  cd
+   12  pwd
+   13  ls
+   14  mkdir ./Photo/
+   15  ls ./Photo/
+   16  ls
+   17  rmdir ./Photo/
+   18  ls
+   19  ls ./JJ1/R04/
+   20  pwd
+   21  cd ./JJ1/R04/
+   22  pwd
+   23  mkdir ./Photo/
+   24  ls
+   25  mkdir ./Friend/
+   26  ls
+   27  pwd
+   28  ls
+   29  ls submit/
+   30  cp -r Friend submit/.
+   31  cp -r Photo submit/.
+   32  cp -r Photo_orig submit/.
+   33  ls submit/
+   34  pwd
+   35  cd ./submit/
+   36  pwd
+   37  history > history.txt
